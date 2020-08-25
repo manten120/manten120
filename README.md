@@ -1,7 +1,7 @@
 ### 😊Welcome✨
 Hi!　My name is Manten.　Welcome to my page!
 
-### 💻Works
+### 💻Works🔥
 YouTube Live と連動した学習記録Webアプリを開発しています
 
 <!--
