@@ -3,6 +3,7 @@ Hi!　My name is Manten.　Welcome to my page!
 
 ### 💻Works
 YouTube Live と連動した学習記録Webアプリを開発しています
+
 developing a web app that works with YouTube Live to record learning
 
 <!--
