@@ -1,4 +1,4 @@
-### こんにちは！Mantenです😊✨
+### 😊Welcome✨
 Hi!　My name is Manten.　Welcome to my page!
 
 ### 💻Works
