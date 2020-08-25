@@ -1,5 +1,5 @@
 ### こんにちは！Mantenです😊✨
-Hi!　My name is Manten.　Welcome to my GitHub!
+Hi!　My name is Manten.　Welcome to my page!
 
 <!--
 **mtn8/mtn8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
