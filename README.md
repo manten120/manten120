@@ -1,4 +1,4 @@
-### こんにちは！Mantenです 👋
+### こんにちは！Mantenです😊✨
 Hi!　My name is Manten.　Welcome to my GitHub!
 
 <!--
