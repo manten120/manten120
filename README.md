@@ -1,9 +1,9 @@
-### 😊こんにちは! - Hello!
+### 😊こんにちは!
 Manten と申します。私のページへようこそ!
 
-My name is Manten.　Welcome to my page!
+Hi! My name is Manten. Welcome to my page!
 
-### 💻何をしてる人？ - Works
+### 💻何をしてる人？
 YouTube Live と連動した学習記録Webアプリを開発しています
 
 developing a web app that works with YouTube Live to record learning
