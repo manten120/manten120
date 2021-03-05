@@ -24,7 +24,7 @@ There are approximately 11,000 users!!
 
 上記Webアプリ『[満点学習帳](https://mantenroom.now.sh/)』と連動したライブを放送しています
 
-My YouTube Channel [Manten -勉強ライブ配信し続ける男-](https://www.youtube.com/channel/UCKXeva5j6KXRvYRwu5k6yqQ).
+My YouTube Channel: [Manten -勉強ライブ配信し続ける男-](https://www.youtube.com/channel/UCKXeva5j6KXRvYRwu5k6yqQ).
 
 Channel subscribers: 68,000!!
 
