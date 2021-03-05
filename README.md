@@ -4,9 +4,12 @@ Manten と申します。私のページへようこそ!
 Hi! My name is Manten. Welcome to my page!
 
 ### 💻何をしてる人？
-YouTube Live と連動した学習記録Webアプリを開発しています
+YouTube Live と連動した学習記録Webアプリ[『満点学習帳』](https://mantenroom.now.sh/)を開発しています
 
 developing a web app that works with YouTube Live to record learning
+
+
+
 <!--
 **mtn8/mtn8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
